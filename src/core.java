@@ -9,3 +9,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
 // match the style used in the rest of the module
+// clarify the control flow
