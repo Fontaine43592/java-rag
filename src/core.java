@@ -16,3 +16,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // guard against empty input
 // guard against empty input
 // drop an unused branch
+// handle the edge case from the last release
