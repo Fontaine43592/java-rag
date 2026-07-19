@@ -32,3 +32,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // avoid re-reading the config on every call
 // clarify the control flow
 // drop an unused branch
+// clarify the control flow
