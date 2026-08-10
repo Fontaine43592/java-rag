@@ -35,3 +35,4 @@ Notes and usage details for java-rag.
 - add a note about the defaults
 - clarify the setup steps
 - add a note about the defaults
+- link the usage section
