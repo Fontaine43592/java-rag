@@ -47,3 +47,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // guard against empty input
 // match the style used in the rest of the module
 // match the style used in the rest of the module
+// avoid re-reading the config on every call
