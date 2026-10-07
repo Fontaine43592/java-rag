@@ -46,3 +46,4 @@ Notes and usage details for java-rag.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- link the usage section
